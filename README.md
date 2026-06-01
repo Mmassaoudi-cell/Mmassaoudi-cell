@@ -22,7 +22,7 @@
 ```ts
 const mohamed = {
   role:      "AI/ML Researcher & Full-Stack Engineer",
-  affiliation: "🎓 Texas A&M University",
+  affiliation: "🎓 Tarleton State University",
   focus:     ["ML Data Quality", "AI Cybersecurity", "Federated Learning"],
   loves:     ["Open Source", "Clean Architecture", "Research-to-Production"],
   building:  "DataAiPrep — enterprise-grade ML data quality assessment 🔬",
